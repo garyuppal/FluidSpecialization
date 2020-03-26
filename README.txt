@@ -1,5 +1,4 @@
-This code accompanies the paper ``Evolution of specialized microbial 
-cooperation in dynamic fluids''
+This code accompanies the paper ``Evolution of specialized microbial cooperation in dynamic fluids.'' Uppal, G. & Vural, D. C. Journal of Evolutionary Biology. (2020).
 
 The main file which runs the code is ``main.m''. 
 
